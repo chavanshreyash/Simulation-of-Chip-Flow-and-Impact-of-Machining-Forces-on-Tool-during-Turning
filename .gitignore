@@ -1,0 +1,22 @@
+
+# ANSYS temporary and cache files
+**/.project_cache/
+**/session_files/
+**/*.log
+**/*.stat
+**/*.prt
+
+# ANSYS generated solver files
+**/*.adres
+**/*.adres_base
+**/*.ad_base
+**/*.ad
+**/*.bin
+**/*.gst
+**/*.cfr
+
+# Temporary files
+*.tmp
+*.bak
+*.lock
+Thumbs.db
